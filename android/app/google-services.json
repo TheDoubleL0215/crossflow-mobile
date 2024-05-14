@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172168799326",
+    "project_id": "crossflow-e79b6",
+    "storage_bucket": "crossflow-e79b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172168799326:android:bb508f125f30c1df8440cf",
+        "android_client_info": {
+          "package_name": "com.example.crossflow_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzuKZxz038yTyO9dG1lG5O5wyMDcSAsPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
